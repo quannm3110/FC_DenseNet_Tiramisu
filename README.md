@@ -5,13 +5,8 @@ Tiramisu combines [DensetNet](https://arxiv.org/abs/1608.06993) and [U-Net](http
 
 ## Setup
 
-Requires Anaconda for Python3 installed.
-
-```
-conda create --name tiramisu python=3.6
-source activate tiramisu
-conda install pytorch torchvision -c pytorch
-```
+* python 3.6
+* pytorch
 
 The ```train.ipynb``` notebook shows a basic train/test workflow.
 
